@@ -1,0 +1,16 @@
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormVentas.resources
+C:\Users\diego\source\repos\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.FormProductos.resources
